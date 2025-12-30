@@ -16,7 +16,7 @@ La interfaz está construida mediante componentes reutilizables y es completamen
 
 ## 📁 Estructura
 
-  src/
+src/
   │
   ├── components/
   │   ├── Header.jsx
