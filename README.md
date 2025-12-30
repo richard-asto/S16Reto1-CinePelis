@@ -1,4 +1,4 @@
-# 🎬 S16Reto1-CinePelis - Reto Vite + React
+# 🎬 S16Reto1-CinePelis - Reto - React + Vite
 
 Proyecto desarrollado con **React + Vite** como parte de un reto académico.
 
@@ -16,9 +16,24 @@ La interfaz está construida mediante componentes reutilizables y es completamen
 
 ## 📁 Estructura
 
+  src/
+  │
+  ├── components/
+  │   ├── Header.jsx
+  │   ├── MovieCard.jsx
+  │   └── MovieGrid.jsx
+  │
+  ├── data/
+  │   └── pelis.js
+  │
+  ├── App.jsx
+  ├── main.jsx
+  └── index.css
+
 - `Header`: logo y buscador (sin funcionalidad)
 - `MovieGrid`: recorre el arreglo de películas
 - `MovieCard`: muestra cada película
+- `pelis.js`: muestra listado de películas
 
 ## 📌 Funcionalidades
 
@@ -38,4 +53,4 @@ npm run dev
 v1.1 – Interfaz mejorada y renderizado con React
 
 ✍️ Autor
-Rasto
+  Proyecto desarrollado como práctica académica de desarrollo frontend con React + Vite.
